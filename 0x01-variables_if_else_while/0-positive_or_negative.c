@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-
-/* main-function assigns a random number to a variable everytime its executed */
+/*
+ *main - assigns a random number to int n everytime
+ *it executes and prints it
+ *Return : (0) success
+ */
 int main(void)
 
 {
